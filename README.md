@@ -326,7 +326,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contacts
 
 Lorenzo Orlandi - [Github](https://github.com/Lorenzoarc/) - [LinkedIn](https://www.linkedin.com/in/lorenzo-orlandi-a31217135/) -mail lorenzo.orlandi@arcoda.it
-
+<br>
 Francesco Laiti - [Github](https://github.com/laitifranz/) - [LinkedIn](https://www.linkedin.com/in/francesco-laiti/)
 <br>
 Davide Lobba - [Github](https://github.com/davidelobba/) - [LinkedIn](https://www.linkedin.com/in/davide-lobba-659739185)
