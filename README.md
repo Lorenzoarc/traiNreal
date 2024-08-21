@@ -325,6 +325,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contacts
 
+Lorenzo Orlandi - [Github](https://github.com/laitifranz/) - [LinkedIn](https://www.linkedin.com/in/Lorenzo-Orlandi/ -mail lorenzo.orlandi@arcoda.it
+
 Francesco Laiti - [Github](https://github.com/laitifranz/) - [LinkedIn](https://www.linkedin.com/in/francesco-laiti/)
 <br>
 Davide Lobba - [Github](https://github.com/davidelobba/) - [LinkedIn](https://www.linkedin.com/in/davide-lobba-659739185)
@@ -353,7 +355,7 @@ If you use this code, or you find some of this repository helpful, please cite u
 
 We thank the team from Arcoda s.r.l & Terranova Software &  MMLab@UniTN for the active collaboration and the opportunity to use the OptiTrack system available at the Multisensory Interactions Lab.
 
-A special thanks to Lorenzo Orlandi and Giulia Martinelli (PhD students at the University of Trento) for their support and dedication in following us during whole the project. Thanks also to Giuseppe Spallita (PhD student) for helping us with the first and third milestones of the challenge.
+This work is the result of the collaboration between Lorenzo Orlandi and Giulia Martinelli (PhD students at the University of Trento), Francesco Laiti and Davide Lobba(Master Degree stundents of University of Trento). Thanks also to Giuseppe Spallita (PhD student) for helping us with the first and third milestones of the challenge.
 
 Background music: Mixture of NCS music from Youtube.
 
